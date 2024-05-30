@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/image-slider/static/css/main.5c99773d.css",
+    "main.js": "/image-slider/static/js/main.3e8ea929.js",
+    "static/js/787.2ea5d0cf.chunk.js": "/image-slider/static/js/787.2ea5d0cf.chunk.js",
+    "static/media/Fotolia_128099667_Subscription_XXL-Cascos-Antiguos.jpg": "/image-slider/static/media/Fotolia_128099667_Subscription_XXL-Cascos-Antiguos.c336a72d5de2b43bfa73.jpg",
+    "static/media/jpg": "/image-slider/static/media/e0a417ed3ca74d2548fe5743e26e43fc.63bd7776131a2d92a8de.jpg",
+    "static/media/oldest_city_in_the_world_6.jpg": "/image-slider/static/media/oldest_city_in_the_world_6.dac2c9ef4fe855c5f159.jpg",
+    "index.html": "/image-slider/index.html",
+    "main.5c99773d.css.map": "/image-slider/static/css/main.5c99773d.css.map",
+    "main.3e8ea929.js.map": "/image-slider/static/js/main.3e8ea929.js.map",
+    "787.2ea5d0cf.chunk.js.map": "/image-slider/static/js/787.2ea5d0cf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5c99773d.css",
+    "static/js/main.3e8ea929.js"
+  ]
+}
